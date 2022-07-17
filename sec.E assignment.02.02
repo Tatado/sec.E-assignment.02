@@ -1,0 +1,61 @@
+1.
+It is the form of learning which requires higher order mental processes like thinking, reasoning, intelligence, etc.
+ we learn different concepts from childhood.
+ For example, when we see a dog and attach the term 'dog', we learn that the word dog refers to a particular animal.
+2.
+The three major types of learning described by behavioral psychology are
+ classical conditioning, operant conditioning, and observational learning.
+upervised, unsupervised, and reinforcement learning are some equivalents of machine learnings.
+3.
+Machine Learning is an AI technique that teaches computers to learn from experience.
+ Machine learning algorithms use computational methods to “learn” information directly from data without relying on a predetermined equation as a model.
+4.
+Reinforcement Learning is a feedback-based Machine learning technique 
+in which an agent learns to behave in an environment by performing the actions and seeing the results of actions. For each good action,
+ the agent gets positive feedback, and for each bad action, the agent gets negative feedback or penalty.
+5.
+Concept Learning as Search:  Concept learning can be viewed as the task of searching
+ through a large space of hypothesis implicitly define by the hypothesis representation. 
+ The goal of the concept learning search is to find the hypothesis that best fits the training examples.
+6.
+Humans acquire knowledge through experience either directly or shared by others.
+ Machines acquire knowledge through experience shared in the form of past data. 
+ Terms, Knowledge, Skill, and Memory being used to define intelligence
+Just because  havimg good memory, that does not mean to be  intelligent.
+7.
+There is some examples
+Image recognition. Image recognition is a well-known and widespread example of machine learning in the real world. ...
+Speech recognition. ...
+Medical diagnosis. ...
+Statistical arbitrage. ...
+Predictive analytics. ...
+Extraction.
+8.
+Making coffee with a coffee machine is a good example of abstraction. To know how to use your coffee machine to make coffee.
+ wee need to provide water and coffee beans, switch it on and select the kind of coffee you want to get.
+9.
+A model's ability to generalize is central to the success of a model. If a model has been trained too well on training data, it will be unable to generalize. 
+It will make inaccurate predictions when given new data, making the model useless even though it is able to make accurate predictions for the training data.
+
+Regression Algorithm	
+In Regression, we find the best fit line 
+that can predict the output accurately.
+                                                                                                                                      
+ Classification Algorithm
+In Classification, we find the decision boundary
+ that can divide the dataset into different classes.
+10.
+Formulating a regression analysis helps you predict the effects of the independent variable on the dependent one.
+ Example: we can say that age and height can be described using a linear regression model.
+ Since a person's height increases as its age increases, they have a linear relationship.
+11.
+K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters.
+ Here K defines the number of pre-defined clusters that need to be created in the process,
+ as if K=2, there will be two clusters, and for K=3, there will be three clusters, and so on.
+12.
+i.At its most basic, machine learning uses programmed algorithms that receive and analyse input data to predict output values within an acceptable range. 
+As new data is fed to these algorithms, they learn and optimise their operations to improve performance, developing 'intelligence' over time.
+ii.Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets. 
+These algorithms discover hidden patterns or data groupings without the need for human intervention.
+
+
